@@ -1,0 +1,14 @@
+/* App layout */
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+header select {
+  font-size: 16px;
+}
+
+h1, h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
